@@ -1,0 +1,7 @@
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\GetNumber\GetNumber\bin\Debug\GetNumber.exe.config
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\GetNumber\GetNumber\bin\Debug\GetNumber.exe
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\GetNumber\GetNumber\bin\Debug\GetNumber.pdb
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\GetNumber\GetNumber\obj\Debug\GetNumber.csprojAssemblyReference.cache
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\GetNumber\GetNumber\obj\Debug\GetNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\GetNumber\GetNumber\obj\Debug\GetNumber.exe
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\GetNumber\GetNumber\obj\Debug\GetNumber.pdb
