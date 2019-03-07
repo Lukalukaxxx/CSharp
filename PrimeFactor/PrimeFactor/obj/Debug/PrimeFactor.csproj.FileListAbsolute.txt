@@ -1,0 +1,7 @@
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.csprojAssemblyReference.cache
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.exe.config
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.exe
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.pdb
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.exe
+C:\Users\Lukal\Desktop\Code\C#\HomeWork\The 2nd\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.pdb
